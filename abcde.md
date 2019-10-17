@@ -1,2 +1,2 @@
 # avg
-from CSE  department NIT Hamirpur
+from CSE 4 years department NIT Hamirpur
